@@ -1,0 +1,15 @@
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\bin\Debug\net5.0\CofeeMachine.exe
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\bin\Debug\net5.0\CofeeMachine.deps.json
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\bin\Debug\net5.0\CofeeMachine.runtimeconfig.json
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\bin\Debug\net5.0\CofeeMachine.runtimeconfig.dev.json
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\bin\Debug\net5.0\CofeeMachine.dll
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\bin\Debug\net5.0\ref\CofeeMachine.dll
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\bin\Debug\net5.0\CofeeMachine.pdb
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\obj\Debug\net5.0\CofeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\obj\Debug\net5.0\CofeeMachine.AssemblyInfoInputs.cache
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\obj\Debug\net5.0\CofeeMachine.AssemblyInfo.cs
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\obj\Debug\net5.0\CofeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\obj\Debug\net5.0\CofeeMachine.dll
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\obj\Debug\net5.0\ref\CofeeMachine.dll
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\obj\Debug\net5.0\CofeeMachine.pdb
+C:\Users\mimran\source\repos\CofeeMachine\CofeeMachine\obj\Debug\net5.0\CofeeMachine.genruntimeconfig.cache
